@@ -1,7 +1,11 @@
-Flask==2.3.0
+Flask==2.3.3
 Flask-SQLAlchemy==3.0.5
 Flask-Login==0.6.2
 Werkzeug==2.3.0
-gunicorn==25.1.0
+gunicorn==21.2.0
 pytz==2023.3
 psycopg2-binary==2.9.9
+Jinja2==3.1.2
+click==8.1.7
+itsdangerous==2.1.2
+markupsafe==2.1.3
